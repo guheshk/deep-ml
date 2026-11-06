@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 0 problems · 0 labs · 7 math
+**8** solved · 0 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-06 | [solution](math/0001-derivatives-and-gradients) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-06 | [solution](math/0005-gradient-descent-updates) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-06 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-11-06 | [solution](math/0014-orthogonality-and-projections) |
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-06 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
