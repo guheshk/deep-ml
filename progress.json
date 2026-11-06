@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:00:47.194Z",
+  "generated_at": "2026-11-06T22:59:40.912Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -66,6 +66,17 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-06T20:00:46.428Z",
       "last_pushed_at": "2026-11-06T20:00:46.428Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-06T22:59:40.352Z",
+      "last_pushed_at": "2026-11-06T22:59:40.352Z"
     }
   }
 }
