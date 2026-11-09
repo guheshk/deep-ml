@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:28:40.977Z",
+  "generated_at": "2026-11-09T15:37:33.495Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -99,6 +99,17 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-07T00:28:40.371Z",
       "last_pushed_at": "2026-11-07T00:28:40.371Z"
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-11-09T15:37:32.768Z",
+      "last_pushed_at": "2026-11-09T15:37:32.768Z"
     }
   }
 }
