@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:37:33.495Z",
+  "generated_at": "2026-11-09T16:41:50.145Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -110,6 +110,17 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-11-09T15:37:32.768Z",
       "last_pushed_at": "2026-11-09T15:37:32.768Z"
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-11-09T16:41:49.365Z",
+      "last_pushed_at": "2026-11-09T16:41:49.365Z"
     }
   }
 }
