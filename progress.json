@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:41:50.145Z",
+  "generated_at": "2026-11-10T16:38:10.230Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -121,6 +121,17 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-11-09T16:41:49.365Z",
       "last_pushed_at": "2026-11-09T16:41:49.365Z"
+    },
+    "math:454": {
+      "kind": "math",
+      "id": "454",
+      "title": "Bayesian Linear Regression: Posterior and Posterior Predictive",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/454",
+      "path": "math/0454-bayesian-linear-regression-posterior-and-posterior-predictive",
+      "first_solved_at": "2026-11-10T16:38:09.461Z",
+      "last_pushed_at": "2026-11-10T16:38:09.461Z"
     }
   }
 }
