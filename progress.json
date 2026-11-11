@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:38:10.230Z",
+  "generated_at": "2026-11-11T14:14:26.530Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -132,6 +132,17 @@
       "path": "math/0454-bayesian-linear-regression-posterior-and-posterior-predictive",
       "first_solved_at": "2026-11-10T16:38:09.461Z",
       "last_pushed_at": "2026-11-10T16:38:09.461Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-11-11T14:14:25.822Z",
+      "last_pushed_at": "2026-11-11T14:14:25.822Z"
     }
   }
 }
