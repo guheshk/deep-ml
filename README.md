@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 0 problems · 0 labs · 13 math
+**14** solved · 0 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-06 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-06 | [solution](math/0005-gradient-descent-updates) |
+| [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-11-11 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-10 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-06 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-09 | [solution](math/0011-determinants-and-trace) |
