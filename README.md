@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 0 problems · 0 labs · 20 math
+**21** solved · 0 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Woodbury, Sherman-Morrison and the Matrix Determinant Lemma](https://www.deep-ml.com/math-problems/410) | medium | 2026-11-06 | [solution](math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-11-06 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-11-13 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
+| [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-11-13 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 
 ---
 
