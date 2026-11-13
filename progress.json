@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:52:12.833Z",
+  "generated_at": "2026-11-13T18:57:22.681Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -253,6 +253,17 @@
       "path": "math/0627-fr-chet-bounds-on-p-a-or-b-when-only-p-a-and-p-b-are-known",
       "first_solved_at": "2026-11-13T18:52:10.660Z",
       "last_pushed_at": "2026-11-13T18:52:10.660Z"
+    },
+    "math:626": {
+      "kind": "math",
+      "id": "626",
+      "title": "Average Speed Over Laps: The Harmonic Mean and the Impossible Target",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/626",
+      "path": "math/0626-average-speed-over-laps-the-harmonic-mean-and-the-impossible-target",
+      "first_solved_at": "2026-11-13T18:57:22.139Z",
+      "last_pushed_at": "2026-11-13T18:57:22.139Z"
     }
   }
 }

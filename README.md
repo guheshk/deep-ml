@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 0 problems · 0 labs · 23 math
+**24** solved · 0 problems · 0 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Average Speed Over Laps: The Harmonic Mean and the Impossible Target](https://www.deep-ml.com/math-problems/626) | easy | 2026-11-13 | [solution](math/0626-average-speed-over-laps-the-harmonic-mean-and-the-impossible-target) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-06 | [solution](math/0001-derivatives-and-gradients) |
 | [Fréchet Bounds on P(A or B) When Only P(A) and P(B) Are Known](https://www.deep-ml.com/math-problems/627) | easy | 2026-11-13 | [solution](math/0627-fr-chet-bounds-on-p-a-or-b-when-only-p-a-and-p-b-are-known) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-06 | [solution](math/0005-gradient-descent-updates) |
