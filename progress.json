@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:43:41.554Z",
+  "generated_at": "2026-11-13T16:58:15.877Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -198,6 +198,17 @@
       "path": "math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first",
       "first_solved_at": "2026-11-13T16:43:40.695Z",
       "last_pushed_at": "2026-11-13T16:43:40.695Z"
+    },
+    "math:242": {
+      "kind": "math",
+      "id": "242",
+      "title": "Expected Waiting Time for Coin Patterns: First-Step Analysis",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/242",
+      "path": "math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis",
+      "first_solved_at": "2026-11-13T16:58:15.035Z",
+      "last_pushed_at": "2026-11-13T16:58:15.035Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 0 problems · 0 labs · 18 math
+**19** solved · 0 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Change of Variables in One and Two Dimensions: the Jacobian, Polar Coordinates and the Gaussian Normalizer](https://www.deep-ml.com/math-problems/359) | medium | 2026-11-13 | [solution](math/0359-change-of-variables-in-one-and-two-dimensions-the-jacobian-polar-coordinates-and-the-gaussian-normalizer) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-06 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-09 | [solution](math/0011-determinants-and-trace) |
+| [Expected Waiting Time for Coin Patterns: First-Step Analysis](https://www.deep-ml.com/math-problems/242) | medium | 2026-11-13 | [solution](math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis) |
 | [Interview Probability Puzzles: Unreliable Witnesses, Complements and Who Rolls First](https://www.deep-ml.com/math-problems/186) | medium | 2026-11-13 | [solution](math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-07 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-11 | [solution](math/0002-multivariate-calculus) |
