@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:44:15.358Z",
+  "generated_at": "2026-11-13T18:52:12.833Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -242,6 +242,17 @@
       "path": "math/0278-rejection-sampling-between-uniform-generators-acceptance-rates-and-expected-cost",
       "first_solved_at": "2026-11-13T18:44:14.625Z",
       "last_pushed_at": "2026-11-13T18:44:14.625Z"
+    },
+    "math:627": {
+      "kind": "math",
+      "id": "627",
+      "title": "Fréchet Bounds on P(A or B) When Only P(A) and P(B) Are Known",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/627",
+      "path": "math/0627-fr-chet-bounds-on-p-a-or-b-when-only-p-a-and-p-b-are-known",
+      "first_solved_at": "2026-11-13T18:52:10.660Z",
+      "last_pushed_at": "2026-11-13T18:52:10.660Z"
     }
   }
 }

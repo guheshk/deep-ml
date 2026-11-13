@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 0 problems · 0 labs · 22 math
+**23** solved · 0 problems · 0 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-06 | [solution](math/0001-derivatives-and-gradients) |
+| [Fréchet Bounds on P(A or B) When Only P(A) and P(B) Are Known](https://www.deep-ml.com/math-problems/627) | easy | 2026-11-13 | [solution](math/0627-fr-chet-bounds-on-p-a-or-b-when-only-p-a-and-p-b-are-known) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-06 | [solution](math/0005-gradient-descent-updates) |
 | [Rejection Sampling Between Uniform Generators: Acceptance Rates and Expected Cost](https://www.deep-ml.com/math-problems/278) | easy | 2026-11-13 | [solution](math/0278-rejection-sampling-between-uniform-generators-acceptance-rates-and-expected-cost) |
 | [The Gamma Family: Exponential, Chi-Squared and Inverse-Gamma as Special Cases](https://www.deep-ml.com/math-problems/360) | easy | 2026-11-13 | [solution](math/0360-the-gamma-family-exponential-chi-squared-and-inverse-gamma-as-special-cases) |
