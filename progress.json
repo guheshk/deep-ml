@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:58:15.877Z",
+  "generated_at": "2026-11-13T17:42:03.397Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -209,6 +209,17 @@
       "path": "math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis",
       "first_solved_at": "2026-11-13T16:58:15.035Z",
       "last_pushed_at": "2026-11-13T16:58:15.035Z"
+    },
+    "math:148": {
+      "kind": "math",
+      "id": "148",
+      "title": "Moment-Generating Functions and a Central Limit Theorem Sketch",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/148",
+      "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
+      "first_solved_at": "2026-11-13T17:42:02.734Z",
+      "last_pushed_at": "2026-11-13T17:42:02.734Z"
     }
   }
 }
