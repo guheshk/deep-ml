@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:18:01.853Z",
+  "generated_at": "2026-11-13T18:44:15.358Z",
   "items": {
     "math:409": {
       "kind": "math",
@@ -231,6 +231,17 @@
       "path": "math/0149-renewal-processes-and-blackwell-s-theorem",
       "first_solved_at": "2026-11-13T18:18:01.194Z",
       "last_pushed_at": "2026-11-13T18:18:01.194Z"
+    },
+    "math:278": {
+      "kind": "math",
+      "id": "278",
+      "title": "Rejection Sampling Between Uniform Generators: Acceptance Rates and Expected Cost",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/278",
+      "path": "math/0278-rejection-sampling-between-uniform-generators-acceptance-rates-and-expected-cost",
+      "first_solved_at": "2026-11-13T18:44:14.625Z",
+      "last_pushed_at": "2026-11-13T18:44:14.625Z"
     }
   }
 }
